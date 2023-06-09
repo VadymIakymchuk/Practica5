@@ -96,5 +96,5 @@ void loop()
 }
 ```
 
-Explicación: En el setup() se establece una comunicación serial con el ESP32 y se comprueba que los pines lcd de la pantalla estan bien asignados. Luego, el cursor se coloca en varias posisionees poara sacar los primeros mensajes de prueba por la pantalla. Dentro del bucle, el cursor se coloca en la posición (14, 2) para mostrar numeros generados aleatoriamente por el programa en la pantalla.
+Explicación: En el setup() se establece una comunicación serial con el ESP32 y se comprueba que los pines lcd de la pantalla estan bien asignados. Luego, el cursor se coloca en varias posiciones poara sacar los primeros mensajes de prueba por la pantalla. Dentro del bucle, el cursor se coloca en la posición (14, 2) para mostrar numeros generados aleatoriamente por el programa en la pantalla.
 
